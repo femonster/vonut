@@ -12,7 +12,7 @@ export default {
   ],
   methods: {
     githubLink () {
-      window.location.href = 'https://github.com/jrainlau/vonut'
+      window.location.href = 'https://github.com/femonster/vonut'
     }
   }
 }
